@@ -7,7 +7,6 @@ Eu sou Isaque Lins, sou um programador Front End atualmente estou aprendendo e c
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 
-[![Isaque Lins GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaquelins523)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaquelins523&hide_progress=true)
