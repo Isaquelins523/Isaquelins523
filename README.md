@@ -2,8 +2,6 @@
 
 Desenvolvedor Full Stack | Python | TypeScript | React | Node.js | Django
 
-Desenvolvedor Full Stack | Python | TypeScript | React | Node.js | Django
-
 Sou desenvolvedor Full Stack com foco em Python, TypeScript, React e Node.js. Tenho experiência no desenvolvimento de APIs e aplicações web utilizando FastAPI, Django e Flask, além de trabalhar com mensageria e comunicação entre serviços com RabbitMQ.
 
 Gosto de transformar problemas em soluções bem estruturadas, com código limpo, boa organização e foco em performance. Tenho interesse especial em arquitetura de sistemas, integrações entre serviços e construção de interfaces modernas e responsivas.
